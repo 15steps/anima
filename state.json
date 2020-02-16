@@ -1,0 +1,817 @@
+[ {
+  "id" : "e8a7f783-825a-43dd-8cb0-6470ede5868a",
+  "pageURL" : "https://www97.zippyshare.com/v/2y0ABioH/file.html",
+  "status" : "FINISHED",
+  "fileName" : "Legend_of_the_Galactic_Heroes_009_ANSK-Anbient.mkv",
+  "path" : "/Users/wellfelix/Playground/kotlin/anime-downloader/downloads/Legend_of_the_Galactic_Heroes_009_ANSK-Anbient.mkv",
+  "downloadableLink" : "https://www97.zippyshare.com/d/2y0ABioH/2403/Legend_of_the_Galactic_Heroes_009_ANSK-Anbient.mkv",
+  "retried" : false
+}, {
+  "id" : "782f0fc9-cb9b-434e-a89b-244a844d06cb",
+  "pageURL" : "https://www97.zippyshare.com/v/txuFDzH8/file.html",
+  "status" : "FINISHED",
+  "fileName" : "Legend_of_the_Galactic_Heroes_010_ANSK-Anbient.mkv",
+  "path" : "/Users/wellfelix/Playground/kotlin/anime-downloader/downloads/Legend_of_the_Galactic_Heroes_010_ANSK-Anbient.mkv",
+  "downloadableLink" : "https://www97.zippyshare.com/d/txuFDzH8/49059/Legend_of_the_Galactic_Heroes_010_ANSK-Anbient.mkv",
+  "retried" : false
+}, {
+  "id" : "53e4ea31-d37b-427f-a6c6-3db2150f4a1f",
+  "pageURL" : "https://www97.zippyshare.com/v/XilxzB1k/file.html",
+  "status" : "DOWNLOADING",
+  "fileName" : "Legend_of_the_Galactic_Heroes_011_ANSK-Anbient.mkv",
+  "path" : "/Users/wellfelix/Playground/kotlin/anime-downloader/downloads/Legend_of_the_Galactic_Heroes_011_ANSK-Anbient.mkv",
+  "downloadableLink" : "https://www97.zippyshare.com/d/XilxzB1k/5396/Legend_of_the_Galactic_Heroes_011_ANSK-Anbient.mkv",
+  "retried" : false
+}, {
+  "id" : "9ddde7cc-3988-4431-be38-3bbd3ddccb1d",
+  "pageURL" : "https://www97.zippyshare.com/v/uH8A3z2F/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "74d0f188-7522-489e-8a7b-2028ffe3882d",
+  "pageURL" : "https://www97.zippyshare.com/v/ooB0vwpa/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "d6eed6d8-3fb0-406c-89e9-cc964b38c03e",
+  "pageURL" : "https://www97.zippyshare.com/v/OOwhBdNM/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "110c4855-a0a2-4302-bc26-aee94fd92ecb",
+  "pageURL" : "https://www97.zippyshare.com/v/n8ewKv10/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "59b125e4-b367-4356-90ad-bfcbbf99936a",
+  "pageURL" : "https://www97.zippyshare.com/v/vDP9n5Yr/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "691bfb37-f38b-4d2f-8977-321cc6d4721a",
+  "pageURL" : "https://www97.zippyshare.com/v/pLTYDOF6/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "79532929-dfda-4c01-b4e7-3caeee3cb2ca",
+  "pageURL" : "https://www97.zippyshare.com/v/g26otjqB/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "0ded3574-d1a6-4db7-9208-64cfec7f4163",
+  "pageURL" : "https://www97.zippyshare.com/v/za9iVSON/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "98e3366d-3f3d-488a-be9c-db2e66581bce",
+  "pageURL" : "https://www97.zippyshare.com/v/DZ8ZF6bO/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "2ec55fb4-b6da-495b-9db7-11f779b3b9c5",
+  "pageURL" : "https://www97.zippyshare.com/v/nd21K5LN/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "47185125-691b-4616-9d6e-8a7290afab95",
+  "pageURL" : "https://www97.zippyshare.com/v/Moc66jFf/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "d58405c1-e6a3-4333-975f-c1eed1a4b0bd",
+  "pageURL" : "https://www97.zippyshare.com/v/nKhdGiKa/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "28cb5bf8-a126-4ee5-b2ae-debc62e26328",
+  "pageURL" : "https://www97.zippyshare.com/v/gBD0AyV7/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "296f15e6-58c5-4b0d-82f9-b6ade5329eaf",
+  "pageURL" : "https://www97.zippyshare.com/v/MDMrifu7/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "0b17083a-71da-464d-8559-6b5b746b2653",
+  "pageURL" : "https://www97.zippyshare.com/v/5gw7Uch9/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "e8e6e30b-56d0-48c8-a3f2-f0ce4acbef2d",
+  "pageURL" : "https://www97.zippyshare.com/v/GNbP8XLJ/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "00d86634-892e-4b73-bed5-878c4db52608",
+  "pageURL" : "https://www97.zippyshare.com/v/qopz4FuK/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "8f7b828c-fd60-45b7-8670-373995154497",
+  "pageURL" : "https://www97.zippyshare.com/v/78Yr5cT4/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "8268b813-1077-448e-b3d3-038af753af6a",
+  "pageURL" : "https://www97.zippyshare.com/v/11mPYXIa/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "2b04c15f-ff90-4b0e-a755-98b7447fcd32",
+  "pageURL" : "https://www97.zippyshare.com/v/6UrN9OyV/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "49db407a-5769-4a33-8b7b-3b6dd528afc3",
+  "pageURL" : "https://www97.zippyshare.com/v/q7gKf45B/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "579c1ee6-ccf0-4886-99fe-ef3677eefa8a",
+  "pageURL" : "https://www97.zippyshare.com/v/IM8PLlRT/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "ecb2473a-9016-4856-ae5c-163400c2497c",
+  "pageURL" : "https://www97.zippyshare.com/v/12i3OWut/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "c8feee48-8e47-4b5f-85b3-e7a42622ea41",
+  "pageURL" : "https://www97.zippyshare.com/v/BpfVeYje/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "f72f6613-b3f7-49fa-b462-be0cc1156e46",
+  "pageURL" : "https://www97.zippyshare.com/v/TnSuKRPy/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "5df27db7-43a7-4bc9-aaf9-8bbf18715e0f",
+  "pageURL" : "https://www97.zippyshare.com/v/HnCxB5sM/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "6784ec48-39bf-4f15-960d-75fdd0aa66fc",
+  "pageURL" : "https://www97.zippyshare.com/v/c58c8qiZ/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "e9bc8f60-731a-4728-acbb-ececd59d6f71",
+  "pageURL" : "https://www97.zippyshare.com/v/0VFABWtR/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "83612fdd-e7da-45f1-b485-d2b30dc02c1f",
+  "pageURL" : "https://www97.zippyshare.com/v/1LtK8BiS/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "9847b3ee-009c-44fd-ae80-b93f67951423",
+  "pageURL" : "https://www97.zippyshare.com/v/wcs48GyY/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "49ae60fe-00be-4fbe-8387-5d0f71c3fb64",
+  "pageURL" : "https://www97.zippyshare.com/v/DF610Dit/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "345aede8-110f-493b-b167-1b6bb0365175",
+  "pageURL" : "https://www97.zippyshare.com/v/XN1HPlvl/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "88c9e8b1-aa87-4873-81cc-ba919ee88400",
+  "pageURL" : "https://www97.zippyshare.com/v/woOJ4bYJ/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "5e7c06e0-6fa1-4a95-a7f5-f2d8045314c5",
+  "pageURL" : "https://www97.zippyshare.com/v/ka9cPYwB/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "dd5d9bbe-eaa0-484f-99a2-ffe88c594bcc",
+  "pageURL" : "https://www97.zippyshare.com/v/cBN41XAj/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "b207c36d-5e75-4ecc-9a71-77637e6d2547",
+  "pageURL" : "https://www97.zippyshare.com/v/rRO2ggyW/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "a4c20ca1-ad69-468e-badd-0639ce794279",
+  "pageURL" : "https://www97.zippyshare.com/v/iboxOdaP/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "650ce717-3e95-491e-8aae-21b9f6924359",
+  "pageURL" : "https://www97.zippyshare.com/v/2sUZfdWe/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "e3f64a03-8d26-4fb5-9ba3-1829dbd2ac1a",
+  "pageURL" : "https://www97.zippyshare.com/v/EMYsbbwY/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "d690384c-a482-4abc-ba89-0fee1a20d69a",
+  "pageURL" : "https://www97.zippyshare.com/v/OD7IIMw1/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "f6f24c51-83bf-42cb-a120-4e61297bacb1",
+  "pageURL" : "https://www97.zippyshare.com/v/OrmnbAGf/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "1e165f86-0a46-48c0-a392-3ee397a94e9b",
+  "pageURL" : "https://www97.zippyshare.com/v/pb9b8dBT/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "8b4febdc-cc36-4913-8aaf-3c78929a042e",
+  "pageURL" : "https://www97.zippyshare.com/v/hkhlhiI0/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "47c538e1-6d65-45bb-8e8b-575d96b71f4e",
+  "pageURL" : "https://www97.zippyshare.com/v/MYuM1RJk/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "ba351ff8-928c-420c-ab11-5af79f6bbab1",
+  "pageURL" : "https://www97.zippyshare.com/v/85OLJxuJ/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "6e184d10-4dc0-49d3-91a1-dd43864ffc73",
+  "pageURL" : "https://www97.zippyshare.com/v/1ZVvVNoL/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "843a1da4-cdc3-47af-8666-9f0d3927b7bd",
+  "pageURL" : "https://www97.zippyshare.com/v/BWEsoB5W/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "f58f2ffc-895b-4326-90b2-c476d06c2c69",
+  "pageURL" : "https://www97.zippyshare.com/v/Joa381DE/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "19071a59-86cb-4206-8cf4-d10647d859aa",
+  "pageURL" : "https://www97.zippyshare.com/v/3yYflL1e/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "45e418bf-cdc2-4fdb-b859-c2c3b2a8c7e5",
+  "pageURL" : "https://www97.zippyshare.com/v/UXNTVOaz/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "9cc7777a-19f4-4942-a68f-b34e31f14dd9",
+  "pageURL" : "https://www97.zippyshare.com/v/N9Nzcrky/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "a89487c0-45d0-4320-9260-c9df0ef6273c",
+  "pageURL" : "https://www97.zippyshare.com/v/PIUhD7Y9/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "4206d162-01b3-408c-8b13-de14bfa018b0",
+  "pageURL" : "https://www97.zippyshare.com/v/oBZ995Mw/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "005bb558-89d4-4986-8488-ebbe3ba80a9d",
+  "pageURL" : "https://www97.zippyshare.com/v/v95uWRSR/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "13ff4f3f-ee75-43ec-9ad8-6e6f1f75a20f",
+  "pageURL" : "https://www97.zippyshare.com/v/CM65J9lH/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "3b177aac-4c61-4ba5-ba9f-cad6b8036880",
+  "pageURL" : "https://www97.zippyshare.com/v/3DfG3OyK/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "86869a68-7657-409f-b0e6-3cc0af833784",
+  "pageURL" : "https://www97.zippyshare.com/v/88uYj5gu/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "3425b331-b094-4035-81a2-141392a09b72",
+  "pageURL" : "https://www97.zippyshare.com/v/QHx1BsFa/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "141c4610-4256-4484-a598-4c47b7403905",
+  "pageURL" : "https://www97.zippyshare.com/v/BB8kLtPG/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "0460856e-6e59-4841-9892-db9a15e9e10d",
+  "pageURL" : "https://www97.zippyshare.com/v/CmDojmU9/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "6fc82f39-5c3e-460e-a1a8-320e1d707535",
+  "pageURL" : "https://www97.zippyshare.com/v/i8diCHyQ/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "926cd753-3b38-4f3e-a1cb-551828b539d8",
+  "pageURL" : "https://www97.zippyshare.com/v/03GLoOFC/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "ea12432a-c307-48f2-afdd-b08754ba1b3c",
+  "pageURL" : "https://www97.zippyshare.com/v/HCISxwiO/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "cd90bc65-8eaa-4648-962a-84149a441de5",
+  "pageURL" : "https://www97.zippyshare.com/v/xetDw2Qr/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "1b3433ae-6e0a-4c8f-9133-5ff49fad9451",
+  "pageURL" : "https://www97.zippyshare.com/v/u51WiBRZ/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "e71679f5-3e8f-45f9-a9ed-59eab3a05bb7",
+  "pageURL" : "https://www97.zippyshare.com/v/3irB7Azg/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "d734cb9a-c227-4198-9ef7-dabef1279808",
+  "pageURL" : "https://www97.zippyshare.com/v/FtdLLOHb/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "2c567955-e8d0-4ce2-932d-189561e274e7",
+  "pageURL" : "https://www97.zippyshare.com/v/BQpf5GVb/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "3f76bb9e-e958-4df3-befd-257ffad7488e",
+  "pageURL" : "https://www97.zippyshare.com/v/zUzq06tn/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "8418de50-e51c-4632-ba88-4fba650364ed",
+  "pageURL" : "https://www97.zippyshare.com/v/9CJWBOIm/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "c6d539d6-29d4-480a-a202-56d14796ba9e",
+  "pageURL" : "https://www97.zippyshare.com/v/g1Oy1Pbv/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "db0bd3dd-dd70-4ccb-8c2f-907fb8a79e92",
+  "pageURL" : "https://www97.zippyshare.com/v/a4mt4WmF/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "ac023869-af0c-4567-8f0a-a5a5e568cd74",
+  "pageURL" : "https://www97.zippyshare.com/v/K4wpakHi/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "4024ba6f-3bd4-4622-a08a-6862ff2bf22c",
+  "pageURL" : "https://www97.zippyshare.com/v/Muv8lV5q/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "81bfa6e6-494c-45fa-a979-24b24119a26f",
+  "pageURL" : "https://www97.zippyshare.com/v/Wgp7hbB8/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "08625a08-fbda-48d0-868d-13f9e65f958d",
+  "pageURL" : "https://www97.zippyshare.com/v/mtDwI3Tw/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "7155a36f-57d2-4970-9c09-8aba18b6e3d4",
+  "pageURL" : "https://www97.zippyshare.com/v/3UGSjWDG/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "57db88e6-774d-4034-a4ea-4a1ba0deb630",
+  "pageURL" : "https://www97.zippyshare.com/v/sRSKIGXS/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "fd440bc0-0ec6-4010-89c7-7d6e500fda8a",
+  "pageURL" : "https://www97.zippyshare.com/v/mZpRhewR/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "777a13ba-1b02-406b-b978-64d270ea97a4",
+  "pageURL" : "https://www97.zippyshare.com/v/E521atS8/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "4381c5e3-8b82-4215-ae42-0924b6d23f5f",
+  "pageURL" : "https://www97.zippyshare.com/v/YT11qWvk/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "b173fe9c-eb7e-4dd3-92c6-9c831f019a69",
+  "pageURL" : "https://www97.zippyshare.com/v/rUbdPsN1/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "d13f902d-1269-4fa5-abaf-f5f81720a266",
+  "pageURL" : "https://www97.zippyshare.com/v/A4OOoGp2/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "94945b3f-0b4f-4027-a16d-d1389605444e",
+  "pageURL" : "https://www97.zippyshare.com/v/LUG38j9d/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "e31b03b2-7b08-4951-b888-8938dbf8db1a",
+  "pageURL" : "https://www97.zippyshare.com/v/KnjhI7dR/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "a97d9812-a190-4063-9078-0c70074a6555",
+  "pageURL" : "https://www97.zippyshare.com/v/7rjjPo5L/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "4473e41b-4bf1-4181-a662-da45b5528815",
+  "pageURL" : "https://www97.zippyshare.com/v/deTZlRA4/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "83ba3abc-141a-45e3-9444-30f01bd69e04",
+  "pageURL" : "https://www97.zippyshare.com/v/upis84Xz/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "69bdea8c-d7db-4d1e-9f9e-0d25ec711aa3",
+  "pageURL" : "https://www97.zippyshare.com/v/mSu9ys7S/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "d0680102-992b-4b61-8c70-12b4acc1c2d2",
+  "pageURL" : "https://www97.zippyshare.com/v/aEqeiDdA/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "2e41a63a-cca8-46f3-8211-6e9f4e3f8da5",
+  "pageURL" : "https://www97.zippyshare.com/v/vO2tLAJs/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "c0f0f86e-1782-41f9-a1ce-6e7ee182fc5f",
+  "pageURL" : "https://www97.zippyshare.com/v/puZovFtX/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "edff4f67-a374-411f-84da-322bef3ba81d",
+  "pageURL" : "https://www97.zippyshare.com/v/fNfYxi2K/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "96ae1a1f-2a6b-473a-9ef8-8eef284b9c62",
+  "pageURL" : "https://www97.zippyshare.com/v/Ej5Cw1jI/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "27018616-cf67-4d92-9714-77edc18be7c7",
+  "pageURL" : "https://www97.zippyshare.com/v/XhA6xP8a/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "d33efe54-6374-4ac8-be63-e367a665d0ee",
+  "pageURL" : "https://www97.zippyshare.com/v/hyxMFoLg/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "ce2edf2c-824c-4ff5-8985-cacffe49d884",
+  "pageURL" : "https://www97.zippyshare.com/v/GckFa4Nw/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "9da893c4-5e65-4552-a362-e1bef9b0dfde",
+  "pageURL" : "https://www97.zippyshare.com/v/zjNt19vz/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+}, {
+  "id" : "38f4c043-1b97-4686-b8f6-d91d6734fc33",
+  "pageURL" : "https://www97.zippyshare.com/v/IIOlyOQ6/file.html",
+  "status" : "PENDING",
+  "fileName" : null,
+  "path" : null,
+  "downloadableLink" : null,
+  "retried" : false
+} ]
