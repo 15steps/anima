@@ -1,9 +1,11 @@
 plugins {
     kotlin("jvm") version "1.3.61"
+    java
 }
 
 group = "org.example"
 version = "1.0-SNAPSHOT"
+java.sourceCompatibility = JavaVersion.VERSION_1_8
 
 repositories {
     mavenCentral()
@@ -21,6 +23,21 @@ dependencies {
     implementation("com.fasterxml.jackson.core:jackson-databind:2.10.2")
 
     testImplementation("junit:junit:4.13")
+}
+
+tasks.register<Jar>("uberJar") {
+    manifest {
+        attributes["Main-Class"] = "com.oknotok.MainKt"
+    }
+
+    archiveClassifier.set("uber")
+
+    from(sourceSets.main.get().output)
+
+    dependsOn(configurations.runtimeClasspath)
+    from({
+        configurations.runtimeClasspath.get().filter { it.name.endsWith("jar") }.map { zipTree(it) }
+    })
 }
 
 tasks {
