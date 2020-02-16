@@ -1,7 +1,7 @@
-package com.oknotokt.downloader
+package com.oknotok.downloader
 
-import com.oknotokt.extractor.Downloadable
-import com.oknotokt.extractor.DownloadableExtractor
+import com.oknotok.extractor.Downloadable
+import com.oknotok.extractor.DownloadableExtractor
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import org.apache.log4j.Logger

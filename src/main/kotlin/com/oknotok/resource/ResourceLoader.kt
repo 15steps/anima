@@ -1,4 +1,4 @@
-package com.oknotokt.resource
+package com.oknotok.resource
 
 import java.io.File
 import java.lang.IllegalArgumentException

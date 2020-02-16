@@ -1,4 +1,4 @@
-package com.oknotokt.resource
+package com.oknotok.resource
 
 data class Resource(
     val resourceLink: String

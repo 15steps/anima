@@ -1,4 +1,4 @@
-package com.oknotokt.downloader
+package com.oknotok.downloader
 
 import okhttp3.MediaType
 import okhttp3.ResponseBody

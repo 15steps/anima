@@ -1,4 +1,4 @@
-package com.oknotokt.extractor
+package com.oknotok.extractor
 
 data class Downloadable(
     val link: String,

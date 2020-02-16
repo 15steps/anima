@@ -1,11 +1,11 @@
-package com.oknotokt
+package com.oknotok
 
-import com.oknotokt.downloader.Downloader
-import com.oknotokt.extractor.ZippyshareExtractor
-import com.oknotokt.resource.ResourceLoader
-import com.oknotokt.state.StateHandler
-import com.oknotokt.state.DownloadStatus
-import com.oknotokt.util.timedProgressBar
+import com.oknotok.downloader.Downloader
+import com.oknotok.extractor.ZippyshareExtractor
+import com.oknotok.resource.ResourceLoader
+import com.oknotok.state.StateHandler
+import com.oknotok.state.DownloadStatus
+import com.oknotok.util.timedProgressBar
 import org.apache.log4j.BasicConfigurator
 import java.io.File
 

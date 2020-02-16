@@ -1,6 +1,6 @@
-package com.oknotokt.extractor
+package com.oknotok.extractor
 
-import com.oknotokt.extension.groupOrNull
+import com.oknotok.extension.groupOrNull
 import com.udojava.evalex.Expression
 import org.apache.log4j.Logger
 import java.lang.RuntimeException

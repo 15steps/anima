@@ -1,4 +1,4 @@
-package com.oknotokt.util
+package com.oknotok.util
 
 
 fun timedProgressBar(timer: CountDownTimer = CountDownTimer(1000).start()) =

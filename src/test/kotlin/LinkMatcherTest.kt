@@ -1,4 +1,4 @@
-import com.oknotokt.extractor.ZippyshareExtractor
+import com.oknotok.extractor.ZippyshareExtractor
 import org.junit.Assert
 import org.junit.Test
 

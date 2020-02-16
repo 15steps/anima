@@ -1,4 +1,4 @@
-package com.oknotokt.extension
+package com.oknotok.extension
 
 import java.util.regex.Matcher
 

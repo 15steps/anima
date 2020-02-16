@@ -1,4 +1,4 @@
-package com.oknotokt.util
+package com.oknotok.util
 
 class CountDownTimer(
     private val interval: Long
