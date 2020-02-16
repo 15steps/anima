@@ -1,8 +1,9 @@
-import com.oknotok.extractor.ZippyshareExtractor
+package com.oknotok.extractor
+
 import org.junit.Assert
 import org.junit.Test
 
-class LinkMatcherTest {
+class ZippyshareExtractorTest {
     private val linkToPage = "https://www97.zippyshare.com/v/2y0ABioH/file.html"
 
     @Test
