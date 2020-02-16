@@ -23,7 +23,7 @@ fun main() {
                 val downloader = Downloader(
                     pageURL = downloadState.pageURL,
                     extractor = ZippyshareExtractor(),
-                    progressFun = timedProgressBar()
+                    progressFun = timedProgressBar(downloadState)
                 )
                 downloader.download { downloadable ->
                     if (downloadable == null) {
